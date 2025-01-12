@@ -64,19 +64,7 @@ const listData = [
     latitude: 53.4808,
     longitude: -2.2426,
   },
-  {
-    id: 6,
-    title: "Charming Apartment with Garden",
-    images: [
-      "https://images.pexels.com/photos/271816/pexels-photo-6788315.jpeg",
-    ],
-    bedroom: 2,
-    bathroom: 1,
-    price: 1200,
-    address: "202 Green Street, Cambridge",
-    latitude: 52.2053,
-    longitude: 0.1218,
-  },
+
   {
     id: 7,
     title: "Stylish Loft with Downtown Views",
